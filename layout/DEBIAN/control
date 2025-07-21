@@ -1,0 +1,9 @@
+Package: moe.waru.nokeyboardglobe
+Name: NoKeyboardGlobe
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Remove the keyboard globe icon
+Maintainer: waruhachi
+Author: waruhachi
+Section: Tweaks
+Depends: mobilesubstrate
